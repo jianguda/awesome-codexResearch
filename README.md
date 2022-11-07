@@ -10,6 +10,7 @@ A list of research papers about OpenAI codex/copilot or other Code PLM (Pretrain
 - [2107.13586](https://arxiv.org/abs/2107.13586) Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing
 - [2111.01243](https://arxiv.org/abs/2111.01243) Recent Advances in Natural Language Processing via Large Pre-Trained Language Models: A Survey
 - [2202.01110](https://arxiv.org/abs/2202.01110) A Survey on Retrieval-Augmented Text Generation
+- [2210.14179](https://arxiv.org/abs/2210.14179) Practical Program Repair in the Era of Large Pre-trained Language Models
 
 ### Code Representation and Understanding
 
